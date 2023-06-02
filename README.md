@@ -1,5 +1,5 @@
 # TRC-11
-Analog electronics term project.
+Bilkent EEE-211 Analog Electronics term project.
 
 HF (High-Frequency) transceiver (transmitter-receiver), “TRC-11”, operating in the 11-meter amateur band. 
 
